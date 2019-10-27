@@ -80,6 +80,7 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaseApiTests.cs" />
     <Compile Include="Startup.cs" />
     <Compile Include="TickerMasterApiShould.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
